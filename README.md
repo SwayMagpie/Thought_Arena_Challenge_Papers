@@ -70,11 +70,31 @@ Debate and counterarguments are expected to occur outside this space.
 5. If needed, create a new “derivative challenge paper” and archive it here
 
 ## 🛡️ License
-This repository is released under the **MIT License**.
-You are free to take, modify, and redistribute any challenge paper.
-However, please retain the copyright notice.
+## License Structure
 
-**A challenge must bear its signature.**
+This repository uses a multi‑license structure to preserve the integrity of the Thought Arena while allowing freedom where it belongs.
+
+- **/sanctum/**  
+  Licensed under **CC BY‑NC‑ND 4.0**.  
+  These texts are the origin, the quiet sanctum. They must remain unchanged.
+
+- **/tutorials/**  
+  Licensed under **CC BY‑ND 4.0**.  
+  These documents teach the form. They may be shared, but not altered.
+
+- **/tac_papers/**  
+  Licensed under the **MIT License**.  
+  Challenge papers are sparks meant to be taken, modified, and thrown into the arena.
+
+  You are free to take, modify, and redistribute any challenge paper.
+  However, please retain the copyright notice.
+  
+  **A challenge must bear its signature.**
+
+
+Unless otherwise noted, files outside these directories follow the MIT License.
+
+
 
 ## 🏁 In Closing
 Thought Arena Challenge Papers is a anteroom for intellectual play and conflict.
