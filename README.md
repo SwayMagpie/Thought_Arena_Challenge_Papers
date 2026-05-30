@@ -70,7 +70,7 @@ Debate and counterarguments are expected to occur outside this space.
 5. If needed, create a new “derivative challenge paper” and archive it here
 
 ## 🛡️ License
-## License Structure
+### License Structure
 
 This repository uses a multi‑license structure to preserve the integrity of the Thought Arena while allowing freedom where it belongs.
 
